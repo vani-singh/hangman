@@ -2,7 +2,6 @@
 def start_game():
     #Confirm start
     input("Press Enter to continue...")
-
     #Initialization
     word = get_word()
     board = initialize(word)
